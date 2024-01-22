@@ -185,6 +185,7 @@ body {
 .participant img {
   width: var(--participant-size);
   height: var(--participant-size);
+  object-fit: cover;
   border-radius: 50%;
   transition: 0.4s;
 }
